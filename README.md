@@ -4,7 +4,7 @@
 Vignette is a clean, minimalist e-commerce product grid component designed for optimal product presentation and user experience. Featuring a responsive three-column grid with subtle hover effects and intuitive navigation, it's built for performance and accessibility with no external dependencies.
 
 ## Live Preview
-[View Live Demo](https://thisislefa.github.io/Vignetter) | [GitHub Repository](https://github.com/thisislefa/Vignette)
+[View Live Demo](https://thisislefa.github.io/Vignette) | [GitHub Repository](https://github.com/thisislefa/Vignette)
 
 ## Technical Architecture
 
@@ -613,5 +613,6 @@ Vignette is released under the MIT License. Free for personal and commercial use
 ---
 
 Built with simplicity and performance in mind by [Lefa](https://github.com/thisislefa). Contributions welcome!
+
 
 
